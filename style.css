@@ -1,0 +1,14 @@
+.background0{
+ width: 800px;
+ height: 600px;
+ background-image: url(sprite.png);
+ text-align:center;
+ background-position: 900px 0px;
+}
+.background1{
+ width: 504px;
+ height: 504px;
+ background-image: url(sprite.png);
+ text-align:center;
+ background-position: 1404px 0px;
+}
