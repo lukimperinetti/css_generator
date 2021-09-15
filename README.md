@@ -1,1 +1,2 @@
-Création d'un générateur de sprites 100% vanilla
+Générateur de Sprite css from scratch
+Full PHP
